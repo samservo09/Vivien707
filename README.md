@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on ..
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with learning more about Artificial Intelligence/Machine Learning.
 <!-- - 💬 Ask me about ... -->
+- 🤔 I’m looking for help with learning more about Artificial Intelligence/Machine Learning.
 - 📫 How to reach me: samanthaservo09@gmail.com
 - 😄 Pronouns: She/her
 <!--- ⚡ Fun fact: ...-->

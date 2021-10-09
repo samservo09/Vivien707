@@ -15,5 +15,4 @@
 <!--- ⚡ Fun fact: ...-->
 
 
-<img height="180em" src="https://github-readme-stats.radical.app/api?username=samservo09&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samservo09&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"api/top-langs?username=samservo09 />

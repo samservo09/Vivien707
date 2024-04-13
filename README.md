@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on ..
 - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
-- 🌱 I’m currently learning Cybersecurity (OSINT, Networking, Digital Forensics)
+- 🌱 I’m currently learning all about Data Analytics/Data Science!
 - 🤔 I’m looking for help with learning more about Artificial Intelligence/Machine Learning.
 - 📫 How to reach me: samanthaservo09@gmail.com
 - 😄 Pronouns: She/her

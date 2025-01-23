@@ -18,3 +18,4 @@
 
 <img height="180cm" src="https://github.com/samservo09/samantha-servo-website/blob/main/public/images/coverimg.png" />
 
+<i> Let's connect to explore endless possibilities, <strong>beyond the vinculum!</strong></i>
